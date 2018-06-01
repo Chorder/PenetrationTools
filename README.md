@@ -4,7 +4,7 @@ A respository for collecting penetration tools from other git.
 ### Usage
 
 ```
-$ git clone 
+$ git clone https://github.com/Chorder/PenetrationTools.git
 $ cd PenetrationTools
 $ git submodule init
 $ git submodules update
