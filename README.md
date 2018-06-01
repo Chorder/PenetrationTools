@@ -34,6 +34,7 @@ $ git submodules update
 - https://github.com/sowish/LNScan
 - https://github.com/fengxuangit/pyshell
 - https://github.com/zigoo0/webpwn3r
+- https://github.com/gry/shellshock-scanner
 
 **Welcome to pr.**
 

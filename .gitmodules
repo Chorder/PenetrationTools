@@ -64,3 +64,6 @@
 [submodule "webpwn3r"]
 	path = webpwn3r
 	url = https://github.com/zigoo0/webpwn3r.git
+[submodule "shellshock-scanner"]
+	path = shellshock-scanner
+	url = https://github.com/gry/shellshock-scanner.git
