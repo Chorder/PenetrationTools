@@ -1,0 +1,66 @@
+[submodule "xssfork"]
+	path = xssfork
+	url = https://github.com/bsmali4/xssfork
+[submodule "GitHack"]
+	path = GitHack
+	url = https://github.com/lijiejie/GitHack
+[submodule "XXEinjector"]
+	path = XXEinjector
+	url = https://github.com/enjoiz/XXEinjector
+[submodule "wpscan"]
+	path = wpscan
+	url = https://github.com/wpscanteam/wpscan
+[submodule "WP-plugin-scanner"]
+	path = WP-plugin-scanner
+	url = https://github.com/mintobit/WP-plugin-scanner
+[submodule "unix-privesc-check"]
+	path = unix-privesc-check
+	url = https://github.com/pentestmonkey/unix-privesc-check
+[submodule "sparta"]
+	path = sparta
+	url = https://github.com/SECFORCE/sparta
+[submodule "reGeorg"]
+	path = reGeorg
+	url = https://github.com/sensepost/reGeorg
+[submodule "PRET"]
+	path = PRET
+	url = https://github.com/RUB-NDS/PRET
+[submodule "OutLook_WebAPP_Brute"]
+	path = OutLook_WebAPP_Brute
+	url = https://github.com/lijiejie/OutLook_WebAPP_Brute
+[submodule "Linux_Exploit_Suggester"]
+	path = Linux_Exploit_Suggester
+	url = https://github.com/InteliSecureLabs/Linux_Exploit_Suggester
+[submodule "LinEnum"]
+	path = LinEnum
+	url = https://github.com/rebootuser/LinEnum
+[submodule "LANs.py"]
+	path = LANs.py
+	url = https://github.com/DanMcInerney/LANs.py
+[submodule "subDomainsBrute"]
+	path = subDomainsBrute
+	url = https://github.com/lijiejie/subDomainsBrute
+[submodule "IIS_shortname_Scanner"]
+	path = IIS_shortname_Scanner
+	url = https://github.com/lijiejie/IIS_shortname_Scanner
+[submodule "DNS_AXFR_Client"]
+	path = DNS_AXFR_Client
+	url = https://github.com/lijiejie/DNS_AXFR_Client
+[submodule "BBScan"]
+	path = BBScan
+	url = https://github.com/lijiejie/BBScan.git
+[submodule "MITMf"]
+	path = MITMf
+	url = https://github.com/byt3bl33d3r/MITMf.git
+[submodule "xsscrapy"]
+	path = xsscrapy
+	url = https://github.com/DanMcInerney/xsscrapy.git
+[submodule "LNScan"]
+	path = LNScan
+	url = https://github.com/sowish/LNScan.git
+[submodule "pyshell"]
+	path = pyshell
+	url = https://github.com/fengxuangit/pyshell.git
+[submodule "webpwn3r"]
+	path = webpwn3r
+	url = https://github.com/zigoo0/webpwn3r.git
