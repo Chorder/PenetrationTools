@@ -67,3 +67,6 @@
 [submodule "shellshock-scanner"]
 	path = shellshock-scanner
 	url = https://github.com/gry/shellshock-scanner.git
+[submodule "whaweb"]
+	path = whaweb
+	url = https://github.com/qingsh4n/whaweb

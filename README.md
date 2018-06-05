@@ -35,6 +35,7 @@ $ git submodule update
 - https://github.com/fengxuangit/pyshell
 - https://github.com/zigoo0/webpwn3r
 - https://github.com/gry/shellshock-scanner
+- https://github.com/qingsh4n/whaweb
 
-**Welcome to pr.**
+**Welcome PR.**
 
