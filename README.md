@@ -36,6 +36,7 @@ $ git submodule update
 - https://github.com/zigoo0/webpwn3r
 - https://github.com/gry/shellshock-scanner
 - https://github.com/qingsh4n/whaweb
+- https://github.com/lijiejie/ds_store_exp
 
 **Welcome PR.**
 

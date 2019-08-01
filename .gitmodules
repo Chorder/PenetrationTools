@@ -73,3 +73,6 @@
 [submodule "Veil"]
 	path = Veil
 	url = https://github.com/Veil-Framework/Veil.git
+[submodule "ds_store_exp"]
+	path = ds_store_exp
+	url = https://github.com/lijiejie/ds_store_exp
