@@ -2,4 +2,4 @@
 Thumbs.db
 db.json
 *.log
-MITMf/logs/*
+/MITMf/logs/*
