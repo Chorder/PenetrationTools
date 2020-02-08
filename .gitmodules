@@ -82,3 +82,6 @@
 [submodule "exploitdb"]
 	path = exploitdb
 	url = https://github.com/offensive-security/exploitdb.git
+[submodule "Behinder"]
+	path = Behinder
+	url = https://github.com/rebeyond/Behinder.git

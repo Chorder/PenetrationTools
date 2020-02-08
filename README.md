@@ -36,6 +36,11 @@ $ git submodule add https://github.com/Chorder/PenetrationTools.git PenetrationT
         + https://github.com/mintobit/WP-plugin-scanner
     + Shellshock漏洞扫描
         + https://github.com/gry/shellshock-scanner
++ Backdoor
+    + 冰蝎
+        + https://github.com/rebeyond/Behinder.git
+    + Python WEBSHELL工具(菜刀)
+        + https://github.com/fengxuangit/pyshell
 + 目录爆破
     + https://github.com/maurosoria/dirsearch.git
 + 子域名爆破
@@ -65,8 +70,6 @@ $ git submodule add https://github.com/Chorder/PenetrationTools.git PenetrationT
     + https://github.com/rebootuser/LinEnum
 + 综合渗透
     + https://github.com/SECFORCE/sparta
-    + Python WEBSHELL工具(菜刀)
-        + https://github.com/fengxuangit/pyshell
 + WiFi渗透
     + https://github.com/DanMcInerney/LANs.py
 + 中间人攻击
