@@ -85,3 +85,6 @@
 [submodule "Behinder"]
 	path = Behinder
 	url = https://github.com/rebeyond/Behinder.git
+[submodule "miranda-upnp"]
+	path = miranda-upnp
+	url = https://github.com/0x90/miranda-upnp

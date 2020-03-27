@@ -70,6 +70,8 @@ $ git submodule add https://github.com/Chorder/PenetrationTools.git PenetrationT
     + https://github.com/rebootuser/LinEnum
 + 综合渗透
     + https://github.com/SECFORCE/sparta
+    + 内网UPNP设备发现及端口映射
+        + https://github.com/0x90/miranda-upnp
 + WiFi渗透
     + https://github.com/DanMcInerney/LANs.py
 + 中间人攻击
