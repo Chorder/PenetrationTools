@@ -69,6 +69,7 @@ $ git submodule add https://github.com/Chorder/PenetrationTools.git PenetrationT
     + https://github.com/InteliSecureLabs/Linux_Exploit_Suggester
     + https://github.com/rebootuser/LinEnum
 + 综合渗透
+    + https://github.com/rapid7/metasploit-framework
     + https://github.com/SECFORCE/sparta
     + 内网UPNP设备发现及端口映射
         + https://github.com/0x90/miranda-upnp

@@ -88,3 +88,6 @@
 [submodule "miranda-upnp"]
 	path = miranda-upnp
 	url = https://github.com/0x90/miranda-upnp
+[submodule "msf"]
+	path = msf
+	url = https://github.com/rapid7/metasploit-framework
