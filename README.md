@@ -54,6 +54,9 @@ $ git submodule add https://github.com/Chorder/PenetrationTools.git PenetrationT
         + https://github.com/lijiejie/IIS_shortname_Scanner
     + .Ds_Store文件信息泄漏
         + https://github.com/lijiejie/ds_store_exp
++ 命令执行
+    + Shiro反序列化漏洞利用工具
+        + https://github.com/Kit4y/Awesome_shiro
 + 邮箱爆破
     + https://github.com/lijiejie/OutLook_WebAPP_Brute
 + XSS扫描

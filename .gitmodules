@@ -91,3 +91,6 @@
 [submodule "msf"]
 	path = msf
 	url = https://github.com/rapid7/metasploit-framework
+[submodule "Awesome_shiro"]
+	path = Awesome_shiro
+	url = https://github.com/Kit4y/Awesome_shiro.git
