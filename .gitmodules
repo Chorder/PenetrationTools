@@ -94,3 +94,6 @@
 [submodule "Awesome_shiro"]
 	path = Awesome_shiro
 	url = https://github.com/Kit4y/Awesome_shiro.git
+[submodule "cve-exp/CVE-2020-8813"]
+	path = cve-exp/CVE-2020-8813
+	url = https://github.com/mhaskar/CVE-2020-8813.git
