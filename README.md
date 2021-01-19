@@ -54,6 +54,8 @@ $ git submodule add https://github.com/Chorder/PenetrationTools.git PenetrationT
         + https://github.com/lijiejie/IIS_shortname_Scanner
     + .Ds_Store文件信息泄漏
         + https://github.com/lijiejie/ds_store_exp
+    + Padding Oracle漏洞利用
+        + https://github.com/escbar/pypadbuster.git
 + 命令执行
     + Shiro反序列化漏洞利用工具
         + https://github.com/Kit4y/Awesome_shiro

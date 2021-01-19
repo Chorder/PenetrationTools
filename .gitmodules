@@ -97,3 +97,6 @@
 [submodule "cve-exp/CVE-2020-8813"]
 	path = cve-exp/CVE-2020-8813
 	url = https://github.com/mhaskar/CVE-2020-8813.git
+[submodule "pypadbuster"]
+	path = pypadbuster
+	url = https://github.com/escbar/pypadbuster.git
