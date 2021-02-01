@@ -3,4 +3,5 @@ Thumbs.db
 db.json
 *.log
 /MITMf/logs/*
-/webshells/
+!README.md
+/*
