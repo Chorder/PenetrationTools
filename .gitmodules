@@ -100,3 +100,9 @@
 [submodule "pypadbuster"]
 	path = pypadbuster
 	url = https://github.com/escbar/pypadbuster.git
+[submodule "wxappUnpacker"]
+	path = wxappUnpacker
+	url = https://github.com/xuedingmiaojun/wxappUnpacker.git
+[submodule "unpack-wxapkg"]
+	path = unpack-wxapkg
+	url = https://github.com/Clarence-pan/unpack-wxapkg.git

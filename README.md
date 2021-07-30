@@ -2,25 +2,15 @@
 
 感谢这些工具作者们的贡献和分享！
 
-### 如何使用这个仓库？
+### 如何使用？
 
-克隆这个仓库到本地，使用git submodule 同步即可。
+克隆这个仓库，运行`git submodule init && git submodule update`即可同步仓库中所有的工具到本地。
 
 ```
 $ git clone https://github.com/Chorder/PenetrationTools.git
 $ cd PenetrationTools
 $ git submodule init
 $ git submodule update
-```
-
-### 如何构建一个自己的工具仓库？
-
-新建工具仓库，使用git submodule添加工具模块即可。
-
-```
-$ git init MyPenetrationTools
-$ cd MyPenetrationTools
-$ git submodule add https://github.com/Chorder/PenetrationTools.git PenetrationTools
 ```
 
 ### 工具列表(Tools List)
@@ -36,7 +26,7 @@ $ git submodule add https://github.com/Chorder/PenetrationTools.git PenetrationT
         + https://github.com/mintobit/WP-plugin-scanner
     + Shellshock漏洞扫描
         + https://github.com/gry/shellshock-scanner
-+ Backdoor
++ 后门工具
     + 冰蝎
         + https://github.com/rebeyond/Behinder.git
     + Python WEBSHELL工具(菜刀)
@@ -65,7 +55,7 @@ $ git submodule add https://github.com/Chorder/PenetrationTools.git PenetrationT
     + https://github.com/bsmali4/xssfork
     + https://github.com/enjoiz/XXEinjector
     + https://github.com/DanMcInerney/xsscrapy
-+ WebCMS识别
++ CMS识别
     + https://github.com/qingsh4n/whaweb
 + 流量代理
     + https://github.com/sensepost/reGeorg
@@ -84,4 +74,6 @@ $ git submodule add https://github.com/Chorder/PenetrationTools.git PenetrationT
     + https://github.com/byt3bl33d3r/MITMf
 + 打印机渗透
     + https://github.com/RUB-NDS/PRET
-
++ 微信小程序解包
+    + https://github.com/Clarence-pan/unpack-wxapkg.git
+    + https://github.com/xuedingmiaojun/wxappUnpacker.git
